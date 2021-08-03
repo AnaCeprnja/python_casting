@@ -16,5 +16,11 @@ print(a)
 print(b)
 print(c)
 
-
 # strings
+g = str("string")
+h = str(2)
+i = str(150.000)
+
+print(g)
+print(h)
+print(i)
